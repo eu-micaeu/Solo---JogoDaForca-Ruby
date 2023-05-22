@@ -1,3 +1,3 @@
 # Solo---JogoDaForca-Ruby
 
--- Jogo da forca usando conceitos e funções básicas do Ruby.
+-- Jogo da forca usando váriaveis e funções básicas do Ruby.
